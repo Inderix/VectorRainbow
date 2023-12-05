@@ -1,0 +1,24 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_8_4)">
+<rect width="1920" height="1080" fill="#121212"/>
+<path d="M639 218H1982V347H968L639 218Z" fill="#56B8FF"/>
+<path d="M968 347H1982V475H968V347Z" fill="#FFC2C2"/>
+<path d="M968 475H1982V605H968V475Z" fill="white"/>
+<path d="M968 605H1982V733H968V605Z" fill="#FFC2C2"/>
+<path d="M968 733H1982V862H854L968 733Z" fill="#56B8FF"/>
+<path d="M1070 862L1281 540L645 862H1070Z" fill="black" fill-opacity="0.3"/>
+<path d="M639 218H699L981 540L699 862H639L921 540L639 218Z" fill="#FF6464"/>
+<path d="M699 218H759L1041 540L759 862H699L981 540L699 218Z" fill="#FF9C64"/>
+<path d="M759 218H819L1101 540L819 862H759L1041 540L759 218Z" fill="#FFF496"/>
+<path d="M819 218H879L1161 540L879 862H819L1101 540L819 218Z" fill="#8BFF9E"/>
+<path d="M879 218H939L1221 540L939 862H879L1161 540L879 218Z" fill="#56B8FF"/>
+<path d="M939 218H999L1281 540L999 862H939L1221 540L939 218Z" fill="#A056FF"/>
+<path d="M699 862H639L921 540H981H1041H1101H1161H1221H1281L999 862H939H879H819H759H699Z" fill="black" fill-opacity="0.3"/>
+<path d="M921 540H1281L907 524L921 540Z" fill="black" fill-opacity="0.3"/>
+</g>
+<defs>
+<clipPath id="clip0_8_4">
+<rect width="1920" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>
