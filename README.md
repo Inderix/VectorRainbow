@@ -9,8 +9,8 @@ Folders are sorted as follow:
 ```
 File Type (SVG/PNG)
 |-> Flag (Pride, Transgender, Lesbian, etc.)
-    |-> Style (The design itself)
-        |-> Sizes (Various aspect ratios)
+|   |-> Style (The design itself)
+|   |   |-> Sizes (Various aspect ratios)
 ```
 ## Contributing
 Making contributions is easy as pie, and doesn't need any programming experience, just some basic know-how with SVG editing. Keep the following in mind when making a new design:
