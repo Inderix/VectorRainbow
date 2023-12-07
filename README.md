@@ -9,7 +9,7 @@ The repo is structured as nicely as I think possible to make it easy to find the
 
 Folders are sorted as follow:
 ```
-|-> Flag (Pride, Transgender, Lesbian, etc.)
+|-> Flag (🏳️‍🌈, 🏳️‍⚧️, etc.)
 |   |-> Style (The design itself)
 |   |   |-> Files (SVGs & PNGs at various sizes)
 ```
