@@ -13,16 +13,5 @@ Folders are sorted as follow:
 |   |-> Style (The design itself)
 |   |   |-> Files (SVGs & PNGs at various sizes)
 ```
-## Contributing
-Making contributions is easy as pie, and doesn't need any programming experience, just some basic know-how with SVG editing. Keep the following in mind when making a new design:
-- Consistency
-  - Keep things consistent with the other wallpapers, using similar colors to other wallpapers, transparency levels, etc. See below for a style guide, including colors to use. 
-- Inclusion
-  - Make your SVGs keeping in mind that others may edit/revise them, and create different sizes of the design for various screen aspect ratios. If you see a specific SVG in your style/colors missing, feel free to contribute it!
-- Fulfil the basic requirements
-  - When submitting new designs, the PR should...
-    - Have all submitted files in the right folder
-    - Include at least one SVG and PNG render of each submission
-    - A consise description of the submitted files
    
     
